@@ -21,13 +21,15 @@ public class Products {
         
         float totald = qty * price;
         float totalr = totald * 1.1f; 
-        
+        System.out.println("==========================||==========================");
         System.out.println("Code: " + code);
         System.out.println("Name: " + name);
         System.out.println("Qty: " + qty);
         System.out.println("Price: " + price);
         System.out.println("Totald: " + totald);
         System.out.println("Totalr: " + totalr);
+       System.out.println("==========================||==========================");
+
         
         sc.close();
     }
