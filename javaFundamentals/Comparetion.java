@@ -1,4 +1,4 @@
-package javaFundamentals;
+package javafundamentals;
 
 public class Comparetion {
     public static void main(String[] args) {

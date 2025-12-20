@@ -1,4 +1,4 @@
-package javaFundamentals;
+package javafundamentals;
 public class Datatype {
     public static void main(String[] args) {
         int myNum =5;

@@ -1,4 +1,4 @@
-package javaFundamentals;
+package javafundamentals;
 
 import java.util.Scanner;
 public class Oparetor {

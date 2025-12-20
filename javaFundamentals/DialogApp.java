@@ -1,4 +1,4 @@
-package javaFundamentals;
+package javafundamentals;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
