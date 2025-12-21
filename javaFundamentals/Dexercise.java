@@ -7,7 +7,7 @@ public class Dexercise {
         Scanner ip = new Scanner(System.in);
         
         System.out.println("1. Dollar\n 2. Euro\n 3. Pound");
-        System.out.println("Enter currency");
+        System.out.println("Enter your currency choice:");
         int currency = ip.nextInt();
         System.out.println("Enter your money");
 
@@ -22,12 +22,12 @@ public class Dexercise {
                 break;
             case 2:
                 System.out.println("Your amount in Euro: " + money);
-                convertedAmount = money * 4600;
+                convertedAmount = money * 4721;
                 System.out.println("Converted money : KHR" + convertedAmount);
                 break;
             case 3:
                 System.out.println("Your amount in Pound: " + money);
-                convertedAmount = money * 5000; 
+                convertedAmount = money * 5391; 
                 System.out.println("Converted money : KHR" + convertedAmount);
                 break;
             default:
