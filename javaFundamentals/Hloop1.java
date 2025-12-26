@@ -1,13 +1,18 @@
 package javafundamentals;
 
+import java.util.Scanner;
+
 public class Hloop1 {
     public static void main(String[] args) {
-         String[][] seats = {
-            //0    1     2    3    4
-            {"C1","C2","C3","C4","C5"}, // 0
-            {"B1","B2","B3","B4","B5"},//  1
-            {"A1","A2","A3","A4","A5"},//  2
+        Scanner sc = new Scanner(System.in);
+        String[][] seats = {
+                // 0     1      2     3     4
+                { "C1", "C2", "C3", "C4", "C5" }, // 0
+                { "B1", "B2", "B3", "B4", "B5" }, // 1
+                { "A1", "A2", "A3", "A4", "A5" },// 2
         };
+        int number = sc.nextInt();     // for numbers
+        String text = sc.nextLine();  // for text
         // System.out.println(seats[0][0]+ "");
         // System.out.println(seats[0][1]+ "");
         // System.out.println(seats[0][2]+ "");
@@ -34,23 +39,19 @@ public class Hloop1 {
         // System.out.println(seats[3][3]+ "");
         // System.out.println(seats[3][4]+ "");
 
-        
         // for(int col =0; col < 5; col++)
         // {
-        //     System.out.print(seats[0][col]);
+        // System.out.print(seats[0][col]);
         // }
-        
+
         System.out.print("---------------\n");
         System.out.print("|    SCREEN   |\n");
         System.out.print("--------------\n");
-        for(int row = 0; row < 3; row++)
-        {
-            for(int col = 0; col < 5; col++)
-               {
-                 System.out.print(seats[row][col]+" ");
+        for (int row = 0; row < 3; row++) {
+            for (int col = 0; col < 5; col++) {
+                System.out.print(seats[row][col] + " ");
             }
             System.out.println('\n');
-        }        
-    }
+        }
     }
 }
