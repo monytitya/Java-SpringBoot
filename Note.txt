@@ -1,0 +1,30 @@
+OOP 
+ =+> Object Oriented Programming
+-----------------  Waterfall  ----------------
+
+            OOAD : Object Oriented Analys Design
+            data members : id, ram, cpu, name,
+            data type  : int, string , boolean , char
+             
+            Core concept 04 or 03
+
+3
+-
+-
+-
+
+
+---------------  Core concept 04: ------------
+
+
+
+
+
+
+
+
+
+
+
+
+
