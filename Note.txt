@@ -14,14 +14,16 @@ OOP
 -
 
 
----------------  Core concept 04: ------------
+------------------  Core concept 04: -------------------------
 
 
 
+---------------- CLASS WE CAN MERGCH FILE  -------------------
 
 
 
-
+----------------------- Protected ---------------------------
+Use for protected data in class
 
 
 
