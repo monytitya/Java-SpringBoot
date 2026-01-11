@@ -1,6 +1,6 @@
-OOP 
+                      OOP 
  =+> Object Oriented Programming
------------------  Waterfall  ----------------
+-----------------  Waterfall  -------------------------------   
 
             OOAD : Object Oriented Analys Design
             data members : id, ram, cpu, name,
@@ -8,25 +8,23 @@ OOP
              
             Core concept 04 or 03
 
-3
--
--
--
-
-
 ------------------  Core concept 04: -------------------------
 
-
-
 ---------------- CLASS WE CAN MERGCH FILE  -------------------
-
-
 
 ----------------------- Protected ---------------------------
 Use for protected data in class
 
 
 
+----------------------| Inheritan have 5|---------------------
+            -Single
+            -multiple
+            -heritanted
+            -multiplevel
+            -hybrid 
+---------------------| Abstructor |----------------
+When Boss class have ey tver ng del 
 
-
+---------------------| Overloads |----------------
 
