@@ -1,0 +1,14 @@
+|----------------DATA BASE HAS 4--------|
+- SQL: relationship
+- NoSQL: No relationship
+- File : no relationship no secoure
+- Localstorage : work on browser
+
+
+
+- PgSQL, MySQL, SQFLite : have relationship
+- MongoDB, Radis : Non relationship
+
+
+
+|---------------| Optional Data, Or Future data |-----------------|
