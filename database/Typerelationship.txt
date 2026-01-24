@@ -1,0 +1,5 @@
+Type of relationship
+
+- one to one
+- many to many
+- one to many
